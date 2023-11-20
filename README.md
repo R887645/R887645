@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @R887645
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Rofiah
+- 👀 I’m interested in learning more
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate and connect with lots of people in the tech industry.
+- 📫 How to reach me call: 08148449099 email:kehindeazeez49@gmail.com
+- https://www.linkedin.com/in/rofiah-abdul-azeez/
 
 <!---
 R887645/R887645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
