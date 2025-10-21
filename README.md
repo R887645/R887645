@@ -5,19 +5,19 @@ I'm Abdul-Azeez Rofiah, a dedicated Data Analyst with over 2 years of hands-on e
 With a sharp eye for detail and a problem-solving mindset, I clean, organize, and analyze data to support informed decision-making. I also offer virtual administrative support to streamline tasks and boost team productivity.
 
 ## Areas of Focus
-• Business Intelligence & KPI Monitoring 
-• Data Cleaning, Structuring & Validation 
-• Dashboard Reporting & Data Insights 
-• Virtual & Admin Support 
-• Data Entry & Documentation
+- Business Intelligence & KPI Monitoring 
+- Data Cleaning, Structuring & Validation 
+- Dashboard Reporting & Data Insights 
+- Virtual & Admin Support 
+- Data Entry & Documentation
 
 ## Tools & Skills 
-• Power BI, SQL, Excel, Google Sheets 
-• Microsoft Office Suite 
-• Google Workspace, Jira, Slack, Zoom 
-• Basic Python knowledge
+- Power BI, SQL, Excel, Google Sheets
+- Microsoft Office Suite 
+- Google Workspace, Jira, Slack, Zoom 
+- Basic Python knowledge
 
-Notably, I once managed and organized 1,673 rows of customer data from Etsy in 4 days—showcasing speed, accuracy, and dependability.
+### Notably, I once managed and organized 1,673 rows of customer data from Etsy in 4 days—showcasing speed, accuracy, and dependability.
 
 ## Services I Offer
 - Data Analytics & Insights • Clean and analyze datasets • Track trends and business performance • Present clear, actionable insights
