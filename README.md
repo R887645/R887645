@@ -10,9 +10,13 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 - Dashboard Reporting & Data Insights 
 - Virtual & Admin Support 
 - Data Entry & Documentation
+- -Business Analytics
 
 ## Tools & Skills 
-- Power BI, SQL, Excel, Google Sheets
+- Power BI
+- SQL
+- Excel
+- Google Sheets
 - Microsoft Office Suite 
 - Google Workspace, Jira, Slack, Zoom 
 - Basic Python knowledge
@@ -20,11 +24,11 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 ### Notably, I once managed and organized 1,673 rows of customer data from Etsy in 4 days—showcasing speed, accuracy, and dependability.
 
 ## Services I Offer
-- Data Analytics & Insights • Clean and analyze datasets • Track trends and business performance • Present clear, actionable insights
-- Dashboard & Reporting • Create dashboards with Power BI/Excel • Automate reports and monitor KPIs
-- Virtual Administrative Support • Manage schedules, emails & records • Conduct research and organize tasks
-- Data Entry & Management • Input, format, and validate large data sets • Maintain organized and accurate spreadsheets
-- Research & Summary Reports • Conduct industry/competitor research • Build clear reports with visuals and insights
+- Data Analytics & Insights: Clean and analyze datasets, track trends and business performance, and present clear and actionable insights
+- Dashboard & Reporting: Create dashboards with Power BI/Excel, Automate reports, and monitor KPIs
+- Virtual Administrative Support: Manage schedules, emails & records, Conduct research and organize tasks
+- Data Entry & Management: Input, format, and validate large data sets, maintain organized and accurate spreadsheets
+- Research & Summary Reports: Conduct industry/competitor research, Build clear reports with visuals and insights
 
 ## Let’s Work Together
 I'm open to remote roles, freelance projects, or long-term collaborations where I can use my data and admin skills to add value. Let’s connect and explore how I can support your goals with clarity, speed, and insight.
