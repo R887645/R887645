@@ -43,10 +43,17 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 - Data Entry & Management: Input, format, and validate large data sets, maintain organized and accurate spreadsheets
 - Research & Summary Reports: Conduct industry/competitor research, Build clear reports with visuals and insights
 
-📊# Data Analytics Projects
-## ✅Safari Funnel Analysis
+# 📊Data Analytics Projects
+## ✅Safari City Funnel Analysis (Power BI)
 **Case Study:** The project involves analyzing early-funnel data for Safari City to visualize player behavior and identify key drop-off or engagement points. Insights from the analysis will inform recommendations for improving player retention, progression, and monetization strategies.
 ## [View Project](https://github.com/R887645/Safari-City-Funnel-Analysis)
+## ✅My LinkedIn Analytics (Power BI)
+The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July) because I couldn't get the whole of the year data
+## [View Project]([https://github.com/R887645/Safari-City-Funnel-Analysis](https://github.com/R887645/My-Linkedin-Analytics))
+
+
+
+
 
 ## Let’s Work Together
 I'm open to remote roles, freelance projects, or long-term collaborations where I can use my data and admin skills to add value. Let’s connect and explore how I can support your goals with clarity, speed, and insight.
