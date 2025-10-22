@@ -18,6 +18,7 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 - Data Entry & Documentation
 - Business Analytics
 - Reporting
+- Data Visualization
 
 ## Tools & Skills 
 - Power BI
@@ -27,6 +28,9 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 - Microsoft Office Suite 
 - Google Workspace, Jira, Slack, Zoom 
 - Basic Python knowledge
+- Data Analysis
+- Technical Writing
+- Data Entry
 
  ## What I Love Doing
 - Making data simple, clear, and actionable
