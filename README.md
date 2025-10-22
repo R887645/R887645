@@ -66,6 +66,7 @@ The goal of this project is to create an interactive dashboard highlighting $742
 
 ## ✅Nigerian Car Market Analytics (Excel)
 The goal of this project is to create an insightful dashboard analyzing car prices, mileage, and trends, highlighting Toyota’s dominance, Lagos & Abuja as key markets, and strong preferences for used, automatic, and neutral-colored cars.
+
 [View Project](https://github.com/R887645/Nigerian-Car-Market-Analysis)
 
 ## Let’s Work Together
