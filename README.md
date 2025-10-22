@@ -46,18 +46,21 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 # 📊Data Analytics Projects
 ## ✅Safari City Funnel Analysis (Power BI)
 **Case Study:** The project involves analyzing early-funnel data for Safari City to visualize player behavior and identify key drop-off or engagement points. Insights from the analysis will inform recommendations for improving player retention, progression, and monetization strategies.
-## [View Project](https://github.com/R887645/Safari-City-Funnel-Analysis)
+[View Project](https://github.com/R887645/Safari-City-Funnel-Analysis)
 ## ✅My LinkedIn Analytics (Power BI)
-The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July) because I couldn't get the whole of the year data
-## [View Project]([https://github.com/R887645/Safari-City-Funnel-Analysis](https://github.com/R887645/My-Linkedin-Analytics))
-
-
-
-
+The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole of the year data
+[View Project](https://github.com/R887645/My-Linkedin-Analytics)
+## ✅Workforce and Layoff Analysis (Structured Query Language (SQL))
+The first project involved analyzing employee demographic data, salary information, and department structures. The second project focused on cleaning and analyzing a global layoffs dataset to uncover real-world employment trends.
+[View Project](https://github.com/R887645/Workforce-and-Layoff-Analysis)
+## ✅U.S.Furniture Sales Analytics (Excel)
+The goal of this project is to create an interactive dashboard highlighting $742K sales, seasonal trends, top-performing chairs, and regional insights to improve sales, shipping, and operations.
+[View Project](https://github.com/R887645/U.S.-Furniture-Sales-Analytics)
+## ✅Nigerian Car Market Analytics (Excel)
+The goal of this project is to create an insightful dashboard analyzing car prices, mileage, and trends, highlighting Toyota’s dominance, Lagos & Abuja as key markets, and strong preferences for used, automatic, and neutral-colored cars.
+[View Project](https://github.com/R887645/Nigerian-Car-Market-Analysis)
 
 ## Let’s Work Together
 I'm open to remote roles, freelance projects, or long-term collaborations where I can use my data and admin skills to add value. Let’s connect and explore how I can support your goals with clarity, speed, and insight.
 
 📩 Looking forward to contributing to your next data-driven move! Kehindeazeez49@gmail.com
-
-## [VIEW MY LINKEDIN PROFILE](https://www.linkedin.com/in/rofiah-abdul-azeez/)
