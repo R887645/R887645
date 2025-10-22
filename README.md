@@ -1,6 +1,6 @@
 # Hi, it’s a pleasure connecting with you! 👋🏽
 
-I'm Abdul-Azeez Rofiah, a dedicated Data Analyst with over 2 years of hands-on experience and a background in Agricultural Economics. I help businesses transform raw data into actionable insights, track performance, and improve operations, especially in remote work settings.
+I'm Abdul-Azeez Rofiah, a Data Analyst with over 2 years of hands-on experience and a background in Agricultural Economics. I help businesses transform raw data into actionable insights, track performance, and improve operations, especially in remote work settings.
 
 With a sharp eye for detail and a problem-solving mindset, I clean, organize, and analyze data to support informed decision-making. I also offer virtual administrative support to streamline tasks and boost team productivity.
 
@@ -42,6 +42,11 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 - Virtual Administrative Support: Manage schedules, emails & records, Conduct research and organize tasks
 - Data Entry & Management: Input, format, and validate large data sets, maintain organized and accurate spreadsheets
 - Research & Summary Reports: Conduct industry/competitor research, Build clear reports with visuals and insights
+
+📊# Data Analytics Projects
+## ✅Safari Funnel Analysis
+**Case Study:** The project involves analyzing early-funnel data for Safari City to visualize player behavior and identify key drop-off or engagement points. Insights from the analysis will inform recommendations for improving player retention, progression, and monetization strategies.
+## [View Project](https://github.com/R887645/Safari-City-Funnel-Analysis)
 
 ## Let’s Work Together
 I'm open to remote roles, freelance projects, or long-term collaborations where I can use my data and admin skills to add value. Let’s connect and explore how I can support your goals with clarity, speed, and insight.
