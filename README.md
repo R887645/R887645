@@ -48,4 +48,4 @@ I'm open to remote roles, freelance projects, or long-term collaborations where 
 
 📩 Looking forward to contributing to your next data-driven move! Kehindeazeez49@gmail.com
 
-*** [VIEW MY LINKEDIN PROFILE](https://www.linkedin.com/in/rofiah-abdul-azeez/)
+## [VIEW MY LINKEDIN PROFILE](https://www.linkedin.com/in/rofiah-abdul-azeez/)
