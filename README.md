@@ -1,4 +1,4 @@
-# Hi, it’s a pleasure connecting with you! 👋🏽
+# Hi, Welcome to My Portfolio! 👋🏽
 
 I'm Abdul-Azeez Rofiah, a Data Analyst with over 2 years of hands-on experience and a background in Agricultural Economics. I help businesses transform raw data into actionable insights, track performance, and improve operations, especially in remote work settings.
 
