@@ -48,6 +48,12 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 - Research & Summary Reports: Conduct industry/competitor research, Build clear reports with visuals and insights
 
 # 📊Data Analytics Projects
+
+## ✅Adidas US Sales Analysis (Power BI)
+**Case Study:** The goal of this project is to uncover Adidas’ performance trends, regional strengths, and growth opportunities through data-driven insights.
+
+[View Project](https://github.com/R887645/Adidas-US-Sales-Analysis)
+
 ## ✅Safari City Funnel Analysis (Power BI)
 **Case Study:** The project involves analyzing early-funnel data for Safari City to visualize player behavior and identify key drop-off or engagement points. Insights from the analysis will inform recommendations for improving player retention, progression, and monetization strategies.
 
