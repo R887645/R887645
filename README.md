@@ -54,13 +54,13 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 
 [View Project](https://github.com/R887645/Adidas-US-Sales-Analysis)
 
-## ✅Safari City Funnel Analysis (Power BI)
-**Case Study:** The project involves analyzing early-funnel data for Safari City to visualize player behavior and identify key drop-off or engagement points. Insights from the analysis will inform recommendations for improving player retention, progression, and monetization strategies.
+## ✅Africa-Fiscal Balance Sustainability Analytics(Power BI)
+**Case Study:** This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between 2021 and 2025.
 
-[View Project](https://github.com/R887645/Safari-City-Funnel-Analysis)
+[View Project](https://app.powerbi.com/view?r=eyJrIjoiZjliZWZkZjktNTVkNC00MzcyLWJjODEtZmE4ZDkyYjc4M2EyIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)
 
 ## ✅My LinkedIn Analytics (Power BI)
-The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole of the year data
+The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole of year data
 
 [View Project](https://github.com/R887645/My-Linkedin-Analytics)
 
