@@ -49,10 +49,10 @@ With a sharp eye for detail and a problem-solving mindset, I clean, organize, an
 
 # 📊Data Analytics Projects
 
-## ✅Adidas US Sales Analysis (Power BI)
-**Case Study:** The goal of this project is to uncover Adidas’ performance trends, regional strengths, and growth opportunities through data-driven insights.
+## ✅Swiftmart Ecommerce Analysis (Power BI)
+**Case Study:** The goal of this project is to deliver insights that could help SwiftMart grow revenue, improve customer retention, and optimize website performance.
 
-[View Project](https://github.com/R887645/Adidas-US-Sales-Analysis)
+[View Project](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-)
 
 ## ✅Africa-Fiscal Balance Sustainability Analytics(Power BI)
 **Case Study:** This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between 2021 and 2025.
