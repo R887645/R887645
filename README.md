@@ -1,8 +1,6 @@
 # Hi, Welcome to My Portfolio! 👋🏽
 
-I'm Abdul-Azeez Rofiah, a Data Analyst with over 2 years of hands-on experience and a background in Agricultural Economics. I help businesses transform raw data into actionable insights, track performance, and improve operations, especially in remote work settings.
-
-With a sharp eye for detail and a problem-solving mindset, I clean, organize, and analyze data to support informed decision-making. I also offer virtual administrative support to streamline tasks and boost team productivity.
+I’m a Data Analyst, Business Analyst, Business Intelligence professional, and Virtual Assistant who transforms raw data into actionable insights. I help businesses uncover trends, track performance, and make confident, data-driven decisions. From cleaning and validating datasets to designing interactive dashboards in Power BI, Excel, and SQL, I focus on turning numbers into stories that drive smarter business outcomes. My Virtual Assistant experience allows me to support operations efficiently while managing data projects end-to-end.
 
 ## Some results I’m proud of:
 - Streamlined student data tracking systems, enabling faster performance reporting and improved decision-making.
@@ -80,6 +78,6 @@ The goal of this project is to create an insightful dashboard analyzing car pric
 [View Project](https://github.com/R887645/Nigerian-Car-Market-Analysis)
 
 ## Let’s Work Together
-I'm open to remote roles, freelance projects, or long-term collaborations where I can use my data and admin skills to add value. Let’s connect and explore how I can support your goals with clarity, speed, and insight.
+I’m open to remote Data Analyst, Business Analyst, or Business Intelligence roles, freelance projects, or long-term collaborations. If you need someone who can turn data into insights, streamline processes, and help your business make informed decisions, I’m here to help.
 
 📩 Looking forward to contributing to your next data-driven move! Kehindeazeez49@gmail.com
