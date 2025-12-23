@@ -55,7 +55,7 @@ I’m a Data Analyst, Business Analyst, Business Intelligence professional, and 
 ## ✅Africa-Fiscal Balance Sustainability Analytics(Power BI)
 **Case Study:** This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between 2021 and 2025.
 
-[View Project](https://app.powerbi.com/view?r=eyJrIjoiZjliZWZkZjktNTVkNC00MzcyLWJjODEtZmE4ZDkyYjc4M2EyIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)
+[View Project](https://github.com/R887645/Africa-Fiscal-Balance-Sustainability-Analytics)
 
 ## ✅My LinkedIn Analytics (Power BI)
 The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole of year data
