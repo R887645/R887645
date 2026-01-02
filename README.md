@@ -72,10 +72,10 @@ The goal of this project is to create an interactive dashboard highlighting $742
 
 [View Project](https://github.com/R887645/U.S.-Furniture-Sales-Analytics)
 
-## ✅Nigerian Car Market Analytics (Excel)
-The goal of this project is to create an insightful dashboard analyzing car prices, mileage, and trends, highlighting Toyota’s dominance, Lagos & Abuja as key markets, and strong preferences for used, automatic, and neutral-colored cars.
+## ✅2021 Marketing Performance Dashboard (Excel)
+This project was designed to provide a comprehensive, end-to-end analysis of marketing campaign effectiveness across multiple channels, audience segments, and geographic locations.
 
-[View Project](https://github.com/R887645/Nigerian-Car-Market-Analysis)
+[View Project]([https://github.com/R887645/Nigerian-Car-Market-Analysis](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report/blob/main/Report.MD)
 
 ## Let’s Work Together
 I’m open to remote Data Analyst, Business Analyst, or Business Intelligence roles, freelance projects, or long-term collaborations. If you need someone who can turn data into insights, streamline processes, and help your business make informed decisions, I’m here to help.
