@@ -1,6 +1,6 @@
 # Hi, Welcome to My Portfolio! 👋🏽
 
-I’m a Data Analyst, Business Intelligence professional, and Virtual Assistant who transforms raw data into actionable insights. I help businesses uncover trends, track performance, and make confident, data-driven decisions. From cleaning and validating datasets to designing interactive dashboards in Power BI, Excel, and SQL, I focus on turning numbers into stories that drive smarter business outcomes. My Virtual Assistant experience allows me to support operations efficiently while managing data projects end-to-end.
+I’m a Microsoft Certified Data Analyst, Business Intelligence professional, and Virtual Assistant who transforms raw data into actionable insights. I help businesses uncover trends, track performance, and make confident, data-driven decisions. From cleaning and validating datasets to designing interactive dashboards in Power BI, Excel, and SQL, I focus on turning numbers into stories that drive smarter business outcomes. My Virtual Assistant experience allows me to support operations efficiently while managing data projects end-to-end.
 
 ## Some results I’m proud of:
 - Streamlined student data tracking systems, enabling faster performance reporting and improved decision-making.
