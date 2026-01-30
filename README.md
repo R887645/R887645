@@ -56,9 +56,9 @@ The main goal of this project is to analyze my LinkedIn account and see how far 
 [View Project](https://github.com/R887645/My-Linkedin-Analytics)
 
 ## ✅MTN Customer Churn Analysis (Structured Query Language (SQL))
-The first project involved analyzing employee demographic data, salary information, and department structures. The second project focused on cleaning and analyzing a global layoffs dataset to uncover real-world employment trends.
+This project analyzes customer churn for MTN using SQL Server. It covers data cleaning, KPI calculation, churn trend analysis, and churn driver insights. The goal is to identify why customers leave and recommend strategies to improve retention.
 
-[View Project](https://github.com/R887645/Workforce-and-Layoff-Analysis)
+[View Project](https://github.com/R887645/MTN-Customer-Churn-Analysis)
 
 ## ✅U.S.Furniture Sales Analytics (Excel)
 The goal of this project is to create an interactive dashboard highlighting $742K sales, seasonal trends, top-performing chairs, and regional insights to improve sales, shipping, and operations.
