@@ -1,49 +1,42 @@
-# Hi, Welcome to My Portfolio! 👋🏽
+# Hi, I'm Abdul-Azeez Rofiah 👋
 
-I’m a Microsoft Certified Data Analyst, Business Intelligence professional, and Virtual Assistant who transforms raw data into actionable insights. I help businesses uncover trends, track performance, and make confident, data-driven decisions. From cleaning and validating datasets to designing interactive dashboards in Power BI, Excel, and SQL, I focus on turning numbers into stories that drive smarter business outcomes. My Virtual Assistant experience allows me to support operations efficiently while managing data projects end-to-end.
+I’m a **Microsoft Certified Data Analyst** and **Business Intelligence professional** with 2.5 years of experience in **sales, marketing, and e-commerce analytics**. I specialize in turning complex datasets into **clear dashboards** and **actionable insights** that help businesses grow revenue, optimize campaigns, and improve customer retention.
 
-## Some results I’m proud of:
-- Streamlined student data tracking systems, enabling faster performance reporting and improved decision-making.
-- Uncovered hidden sales trends that drove a 15% increase in product focus efficiency and improved sales targeting.
-- Managed and organized 1,673 rows of Etsy customer data in just 4 days, ensuring 100% accuracy and boosting follow-up response time by 30%.
-- Designed KPI dashboards that improved forecasting for growing teams.
+Alongside analytics, I bring **Virtual Assistant expertise**—streamlining reporting workflows, managing campaign data, and supporting teams with **efficient, insight-driven operations**.
 
-## Areas of Focus
-- Business Intelligence & KPI Monitoring 
-- Data Cleaning, Structuring & Validation 
-- Dashboard Reporting & Data Insights 
-- Virtual & Admin Support 
-- Data Entry & Documentation
-- Business Analytics
-- Reporting
-- Data Visualization
+---
 
-## Tools & Skills 
-- Power BI
-- SQL
-- Excel
-- Google Sheets
-- Microsoft Office Suite 
-- Google Workspace, Jira, Slack, Zoom 
-- Basic Python knowledge
-- Data Analysis
-- Technical Writing
-- Data Entry
+## 🚀 Impact Highlights
+- Revealed **$221M in e-commerce revenue insights**, identifying regional performance gaps  
+- Boosted **campaign conversion rates by 15%** through analytics-led marketing strategies  
+- Built **automated dashboards** that improved reporting speed by 40% and accuracy to 99.8%  
+- Streamlined **volunteer performance tracking**, improving selection efficiency by 40%  
 
- ## What I Love Doing
-- Making data simple, clear, and actionable
-- Telling business stories through numbers and visuals
-- Helping brands understand what’s working — and what’s not
-- Using data to boost growth and improve decision-making
-- Designing dashboards that make tracking performance easy
+---
 
+## 🔍 Areas of Focus
+- Sales & Marketing Analytics  
+- E-commerce Performance Reporting  
+- KPI Monitoring & BI Dashboards  
+- Data Cleaning & Structuring  
+- Campaign & Funnel Optimization  
+- Virtual Support for Data Projects  
 
-## Services I Offer
-- Data Analytics & Insights: Clean and analyze datasets, track trends and business performance, and present clear and actionable insights
-- Dashboard & Reporting: Create dashboards with Power BI/Excel, Automate reports, and monitor KPIs
-- Virtual Administrative Support: Manage schedules, emails & records, Conduct research and organize tasks
-- Data Entry & Management: Input, format, and validate large data sets, maintain organized and accurate spreadsheets
-- Research & Summary Reports: Conduct industry/competitor research, Build clear reports with visuals and insights
+---
+
+## 🛠 Tools & Skills
+**Power BI | SQL | Excel | Python Fundamentals | Google Sheets | Microsoft Office Suite | ETL Automation | Jira | Trello | Slack | Zoom**
+
+---
+
+## 💡 What I Enjoy
+- Making data **simple, visual, and actionable**  
+- Designing dashboards that make **performance tracking effortless**  
+- Helping businesses understand **what’s working—and what’s not**  
+- Supporting lean teams with both **analytics and operational efficiency**  
+
+---
+
 
 # 📊Data Analytics Projects
 
@@ -52,17 +45,17 @@ I’m a Microsoft Certified Data Analyst, Business Intelligence professional, an
 
 [View Project](https://github.com/R887645/SwiftMart-E-Commerce-Analytics-)
 
-## ✅Africa-Fiscal Balance Sustainability Analytics(Power BI)
-**Case Study:** This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between 2021 and 2025.
+## ✅ADIDAS US Sales Analysis (Power BI)
+**Case Study:** The goal of this project is to uncover Adidas’ performance trends, regional strengths, and growth opportunities through data-driven insights.
 
-[View Project](https://github.com/R887645/Africa-Fiscal-Balance-Sustainability-Analytics)
+[View Project](https://github.com/R887645/Adidas-US-Sales-Analysis)
 
 ## ✅My LinkedIn Analytics (Power BI)
-The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole of year data
+The main goal of this project is to analyze my LinkedIn account and see how far I have grown between the last 6 months of February-July and this Year (February-July), because I couldn't get the whole year's data
 
 [View Project](https://github.com/R887645/My-Linkedin-Analytics)
 
-## ✅Workforce and Layoff Analysis (Structured Query Language (SQL))
+## ✅MTN Customer Churn Analysis (Structured Query Language (SQL))
 The first project involved analyzing employee demographic data, salary information, and department structures. The second project focused on cleaning and analyzing a global layoffs dataset to uncover real-world employment trends.
 
 [View Project](https://github.com/R887645/Workforce-and-Layoff-Analysis)
@@ -78,6 +71,6 @@ This project was designed to provide a comprehensive, end-to-end analysis of mar
 [View Project](https://github.com/R887645/2021-Marketing-Performance-Dashboard-Report)
 
 ## Let’s Work Together
-I’m open to remote Data Analyst, Business Analyst, or Business Intelligence roles, freelance projects, or long-term collaborations. If you need someone who can turn data into insights, streamline processes, and help your business make informed decisions, I’m here to help.
+I’m open to remote Data Analyst, BI, or Virtual Assistant roles, freelance projects, and collaborations. If you’re looking for someone who can turn numbers into strategy and support your business with precision, let’s connect.
 
 📩 Looking forward to contributing to your next data-driven move! Kehindeazeez49@gmail.com
