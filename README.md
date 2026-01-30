@@ -2,7 +2,7 @@
 
 I’m a **Microsoft Certified Data Analyst** and **Business Intelligence professional** with 2.5 years of experience in **sales, marketing, and e-commerce analytics**. I specialize in turning complex datasets into **clear dashboards** and **actionable insights** that help businesses grow revenue, optimize campaigns, and improve customer retention.
 
-Alongside analytics, I bring **Virtual Assistant expertise**—streamlining reporting workflows, managing campaign data, and supporting teams with **efficient, insight-driven operations**.
+Alongside analytics, I bring **Virtual Assistant expertise**, streamlining reporting workflows, managing campaign data, and supporting teams with **efficient, insight-driven operations**.
 
 ---
 
