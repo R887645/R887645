@@ -25,7 +25,7 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 ---
 
 ## 🛠 Tools & Skills
-**Power BI | SQL | Excel | Python Fundamentals | Google Sheets | Microsoft Office Suite | ETL Automation | Jira | Trello | Slack | Zoom**
+**Power BI | SQL | Excel | Python Fundamentals | Google Sheets | Microsoft Office Suite | ETL Automation | Jira | Trello | Slack | Zoom |Power Apps | Power Automate | Power Pages | Copilot Studio**
 
 ---
 
