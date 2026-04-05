@@ -38,7 +38,7 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 ---
 # 📊Power Platform Projects
 ## Creation of Job Application Portal Using Power Automate
-**Case Study:** The goal of this project is to replicate a fully functional job application portal using only Microsoft Power Automate, automating applicant intake, CV storage, data logging, and email notifications without writing a single line of code.
+**Case Study:** The goal of this project is to replicate a fully functional job application portal using only Microsoft Power Automate, automating applicant intake, CV storage, data logging, and email notifications.
 
 [View Project](https://github.com/R887645/Creation-of-Job-Application-Portal-with-Power-Automate/blob/main/Report.MD)
 
