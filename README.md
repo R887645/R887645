@@ -19,7 +19,8 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 - E-commerce Performance Reporting  
 - KPI Monitoring & BI Dashboards  
 - Data Cleaning & Structuring  
-- Campaign & Funnel Optimization  
+- Campaign & Funnel Optimization
+- No-Code Automation (Power Platform)
 - Virtual Support for Data Projects  
 
 ---
@@ -33,7 +34,10 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 - Making data **simple, visual, and actionable**  
 - Designing dashboards that make **performance tracking effortless**  
 - Helping businesses understand **what’s working—and what’s not**  
+- Supporting lean teams with both **analytics and operational efficiency**
+- Building **no-code automation tools** that save time and reduce manual work
 - Supporting lean teams with both **analytics and operational efficiency**  
+ 
 
 ---
 # 📊Power Platform Projects
