@@ -41,12 +41,12 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 
 ---
 # 📊Power Platform Projects
-## Creation of Job Application Portal Using Power Automate
+## ✅Creation of Job Application Portal Using Power Automate
 **Case Study:** The goal of this project is to replicate a fully functional job application portal using only Microsoft Power Automate, automating applicant intake, CV storage, data logging, and email notifications.
 
 [View Project](https://github.com/R887645/Creation-of-Job-Application-Portal-with-Power-Automate/blob/main/Report.MD)
 
-## Creation of Rofiah Facility Bookings Website Using Power Pages
+## ✅Creation of Rofiah Facility Bookings Website Using Power Pages
 **Case Study:** The goal of this project is to build a no-code facility booking website using Microsoft Power Pages and copilot Studio, enabling clients to book conference rooms, event halls, office spaces, and sports facilities, while managing their reservations and reporting facility issues through a personal user dashboard.
 
 [View Project](https://github.com/R887645/Creation-of-Rofiah-Facility-Bookings-Website-Using-Power-Pages/blob/main/Report.MD)
