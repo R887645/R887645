@@ -20,7 +20,7 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 - KPI Monitoring & BI Dashboards  
 - Data Cleaning & Structuring  
 - Campaign & Funnel Optimization
-- No-Code Automation (Power Platform)
+- Low & No-Code Automation (Power Platform)
 - Virtual Support for Data Projects  
 
 ---
