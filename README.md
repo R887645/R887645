@@ -7,10 +7,11 @@ Alongside analytics, I bring **Virtual Assistant expertise**, streamlining repor
 ---
 
 ## 🚀 Impact Highlights
-- Revealed **$221M in e-commerce revenue insights**, identifying regional performance gaps  
-- Boosted **campaign conversion rates by 15%** through analytics-led marketing strategies  
-- Built **automated dashboards** that improved reporting speed by 40% and accuracy to 99.8%  
-- Streamlined **volunteer performance tracking**, improving selection efficiency by 40%  
+- Managed and validated programme data across all **36 Nigerian states and the FCT for 3MTT**, a Federal Ministry of Communications, Innovation & Digital Economy initiative 
+- Built **automated dashboards** tracking enrolment, attendance, completion, and employment placement for a national-scale technical talent programme which improved reporting speed by 40% and accuracy to 99.8%  
+- Streamlined **volunteer performance tracking**, improving selection efficiency by 40%
+- Led data validation, deduplication, and reconciliation across device distribution and stipend disbursement records, ensuring compliance with the Nigeria Data Protection Act (2023)
+
 
 ---
 
